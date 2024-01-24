@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Задача 1.");
+        System.out.println("Задача 1");
         byte b = 100;
         System.out.println("Значение переменной b" + " с типом byte" + " равно " + b);
         short s = 230;
@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Значение переменной f" + " с типом float" + " равно " + f);
         double d = 5.143143143;
         System.out.println("Значение переменной d" + " с типом double" + " равно " + d);
-        System.out.println("Задача 2.");
+        System.out.println("Задача 2");
         float a = 27.12f;
         System.out.println(a);
         long с = 987678965549L;
@@ -28,7 +28,7 @@ public class Main {
         System.out.println(j);
         byte k = 67;
         System.out.println(k);
-        System.out.println("Задача 3.");
+        System.out.println("Задача 3");
         byte lP = 23;
         byte aS = 27;
         byte eA = 30;
@@ -36,7 +36,7 @@ public class Main {
         short totalSheets = 480;
         int everyStudent = totalSheets / totalStudents;
         System.out.println("На каждого ученика рассчитано " + everyStudent + " листов бумаги");
-        System.out.println("Задача 4.");
+        System.out.println("Задача 4");
         byte sixteenBottles = 16;
         byte twoMinutes = 2;
         int oneMinutes = sixteenBottles / twoMinutes;
@@ -57,7 +57,7 @@ public class Main {
         System.out.println("За" + " сутки машина произвела " + day + " штук бытылок");
         System.out.println("За" + " 3 дня машина произвела " + threeDay + " штук бытылок");
         System.out.println("За" + " 1 месяц машина произвела " + month + " штук бытылок");
-        System.out.println("Задача 5.");
+        System.out.println("Задача 5");
         byte totalCans = 120;
         byte whiteCans = 2;
         byte brownCans = 4;
@@ -69,7 +69,7 @@ public class Main {
         int allWhite = whiteCans * totalClassec;
         int allBrown = brownCans * totalClassec;
         System.out.println("В школе, где " + totalClassec + " классов, нужно " + allWhite + " банок белой краски и " + allBrown + " банок коричневой краски");
-        System.out.println("Задача 6.");
+        System.out.println("Задача 6");
         int bananas = 5;
         int milk = 2;
         int iceCream = 2;
@@ -100,7 +100,7 @@ public class Main {
         double totalKg = kgBanana + kgMilk + kgIceCream + kgEgg;
         System.out.println("Итого");
         System.out.println("Общий вес завтрака спортсмена = " + totalGr + " грамм, или " + totalKg + " килограмм");
-        System.out.println("Задача 7.");
+        System.out.println("Задача 7");
         System.out.println("Переводим кг в граммы");
         int kG = 1000;
         int weight = 7;
@@ -115,7 +115,7 @@ public class Main {
         int weightCategories = 2;
         int average = (first + second) / 2;
         System.out.println("В среднем понадобится " + average + " день, чтобы добиться результата похудения");
-        System.out.println("Задача 8.");
+        System.out.println("Задача 8");
         int masha = 67760;
         int denis = 83690;
         int kris = 76230;
