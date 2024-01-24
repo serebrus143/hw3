@@ -100,7 +100,7 @@ public class Main {
         double totalKg = kgBanana + kgMilk + kgIceCream + kgEgg;
         System.out.println("Итого");
         System.out.println("Общий вес завтрака спортсмена = " + totalGr + " грамм, или " + totalKg + " килограмм");
-        System.out.println("Задача 7");
+        System.out.println("Задача 7.");
         System.out.println("Переводим кг в граммы");
         int kG = 1000;
         int weight = 7;
@@ -115,7 +115,7 @@ public class Main {
         int weightCategories = 2;
         int average = (first + second) / 2;
         System.out.println("В среднем понадобится " + average + " день, чтобы добиться результата похудения");
-        System.out.println("Задача 8");
+        System.out.println("Задача 8.");
         int masha = 67760;
         int denis = 83690;
         int kris = 76230;
